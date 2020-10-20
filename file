@@ -2,3 +2,4 @@ if feeling = "sad"
 Output = 'dont be sad, every cloud has a silver lining'
 
 if feeling = 'scared'
+output =
